@@ -18,4 +18,4 @@ A Flutter-based mobile app for real-time vehicle license plate detection and aut
 
 
 > 📸 **Note:** The following section contains images.  
-> ⏳ Depending on your internet connection, they may take a few seconds to load. Please be patient.
+> ⏳ Depending on your internet connection, they may take a few seconds to load.
