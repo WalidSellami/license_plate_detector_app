@@ -2,9 +2,11 @@
 
 A Flutter-based mobile app for real-time vehicle license plate detection and authorization verification, ideal for parking management. Includes an admin dashboard (Flutter Web) for data management, alerts, and monitoring.
 
+
 ## Backend Repository
 The backend for this app (built with FastAPI) is available here:  
 👉 [LP Detector Repo](https://github.com/WalidSellami/lp_detector)
+
 
 ## UI/UX Mobile
 
